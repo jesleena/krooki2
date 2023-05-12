@@ -1,0 +1,64 @@
+name: krooki2
+
+description: A new Flutter project.
+
+
+publish_to: 'none'
+
+
+
+environment:
+  sdk: ">=2.17.5 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  intl: ^0.17.0
+  percent_indicator: ^4.0.1
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+
+    - images/mostviewed/logo_krooqi.png
+    - images/mostviewed/dp.png
+    - images/mostviewed/notify.png
+    - images/mostviewed/homeview.png
+    - images/mostviewed/call.png
+    - images/mostviewed/house.png
+    - images/mostviewed/investment.png
+    - images/mostviewed/message.png
+    - images/mostviewed/ronnie-george.png
+    - images/mostviewed/todd-kent.png
+    - images/mostviewed/cust.png
+    - images/mostviewed/agent.png
+    - images/mostviewed/home1.png
+    - images/mostviewed/view.png
+    - images/mostviewed/phone-call.png
+    - images/mostviewed/agents.png
+    - images/mostviewed/properties.png
+    - images/mostviewed/enquires.png
+    - images/mostviewed/packages.png
+    - images/mostviewed/home.png
+    - images/photos
+
+
+
+
+
+
+
+
+
